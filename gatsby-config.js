@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Cong Dao',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+      'Cong Dao is a curious and self-motivated software engineer who is skilled in building exceptional websites and applications.',
     siteUrl: 'https://congdv.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@congdv',
