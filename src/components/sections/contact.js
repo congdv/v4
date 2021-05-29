@@ -50,13 +50,7 @@ const Contact = () => {
 
       <h2 className="title">Get In Touch</h2>
 
-      <p>
-        I am actively looking for new opportunities and open to remote work or relocation. I would
-        love to hear from you! Hire me on{' '}
-        <a href="https://www.upwork.com/fl/congdv" target="__blank">
-          Upwork
-        </a>
-      </p>
+      <p>Just say hello to me when you know about me through this site</p>
 
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello
